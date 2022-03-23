@@ -1,7 +1,7 @@
 {
-  "name": "JulieMwol",
+  "name": "𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡.v3",
   "version": "7.3.6",
-  "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+  "description": "𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
   "main": "./Julie-Mwol/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -17,8 +17,8 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "farhan-dqz",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "author": "𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡",
+  "developer": "@𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡 / @𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/farhan-dqz/Julie-Mwol/issues"

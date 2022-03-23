@@ -1,6 +1,6 @@
 {
-    "name": "Julie-Mwol",
-    "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "name": "𝙯𝙖𝙧𝙖𝙢𝙤𝙬.𝙡𝙫3",
+    "description": "𝙯𝙖𝙧𝙖𝙢𝙤𝙬.𝙡𝙫3 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
     "logo": "https://i.imgur.com/ADXSU8e.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/farhan-dqz/Julie-Mwol",
@@ -8,7 +8,7 @@
     "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
     "stack": "container",
     "env": {
-        "JULIE_SESSION": {
+        "𝙯𝙖𝙧𝙖𝙢𝙤𝙬.𝙡𝙫3_SESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
         },

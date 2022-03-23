@@ -70,7 +70,7 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    BOTCREATOR: "farhandqz",
+    BOTCREATOR: "anuvind",
     SUPPORT: "905524317852-1612300121",
     SUPPORT2: "917012074386-1631435717",
     SUPPORT3: "919072790587-1635775355",

@@ -1,11 +1,11 @@
 {
-    "name": "𝙯𝙖𝙧𝙖𝙢𝙤𝙬.𝙡𝙫3",
-    "description": "𝙯𝙖𝙧𝙖𝙢𝙤𝙬.𝙡𝙫3 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "name": "𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡.𝙫3",
+    "description": "𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡.𝙫3 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
     "logo": "https://i.ibb.co/9rrnJ7g/20210815-080839.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "",
-    "website":   "https://github.com/farhan-dqz/Julie-Mwol",
-    "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
+    "repository": "https://github.com/Anu00123/zaramow.lv3",
+    "website":   "https://github.com/Anu00123/zaramow.lv3",
+    "success_url": "https://github.com/Anu00123/zaramow.lv3",
     "stack": "container",
     "env": {
         "𝙯𝙖𝙧𝙖𝙢𝙤𝙬.𝙡𝙫3_SESSION": {
@@ -31,7 +31,7 @@
             "required": false,
             "value": "true"
         },
-        "TALKING_PINKY": {
+        "TALKING_𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡": {
             "description": " Turn your account into a chatbot!",
             "required": true,
             "value": "false"
@@ -123,7 +123,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏JulieMWol⤎╾━━━•"
+            "value": "•━━━━╼⤏𝐳𝐚𝐫𝐚𝐦𝐨𝐰𝐥.𝐯𝟑⤎╾━━━•"
         },
         "WORK_TYPE": {
             "description": "JulieMwol Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",

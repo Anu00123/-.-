@@ -13,7 +13,7 @@ const chalk = require('chalk');
 const config = require('./config');
 const simpleGit = require('simple-git');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./julie/');
+const {Message, StringSession, Image, Video} = require('./𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const git = simpleGit();
@@ -89,7 +89,7 @@ async function whatsAsena () {
 
     conn.on ('credentials-updated', async () => {
         console.log(
-            chalk.blueBright.italic('✅ Login information updated!')
+            chalk.blueBright.italic('✅ Login information updated!🙂!')
         );
 
         const authInfo = conn.base64EncodedAuthInfo();
@@ -110,7 +110,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
 
     conn.on('open', async () => {
         console.log(
-            chalk.green.bold('✅ Login successful!')
+            chalk.green.bold('✅ Login successful!🙂')
         );
 
         console.log(
@@ -140,7 +140,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Julie Mwol working!')
+            chalk.green.bold('✅ 𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡 working!')
         );
         await conn.sendMessage(
             conn.user.jid,
@@ -153,10 +153,10 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (commits.total === 0) {
                 await conn.sendMessage(conn.user.jid,Lang.UPDATE, MessageType.text);    
             } else {
-                var julieupdate = Lang.NEW_UPDATE;
+                var 𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡update = Lang.NEW_UPDATE;
                 commits['all'].map(
                     (commit) => {
-                        julieupdate += '🔸 [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' <' + commit.author_name + '>\n';
+                     𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡 update += '🔸 [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' <' + commit.author_name + '>\n';
                     }
                 );
                 await conn.sendMessage(

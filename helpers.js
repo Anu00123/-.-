@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Julie Mwol*:  ```" + msg + "```"
+    return "✅ *𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Julie Mwol*:  ```" + msg + "```"
+    return "🛑 *𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Julie Mwol*:  ```" + msg + "```"
+    return "⏺️ *𝙯𝙖𝙧𝙖𝙢𝙤𝙬𝙡*:  ```" + msg + "```"
 }
 
 
